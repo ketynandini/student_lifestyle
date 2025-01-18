@@ -5,6 +5,9 @@ Penelitian ini bertujuan untuk mengklasifikasikan tingkat stres mahasiswa (Low, 
 
 
 Anggota Kelompok :
+
 Kety Nandini (22.11.4595)
+
 Sheila Anggun Vabilla (22.11.4578)
+
 Naouthla Asia Levina (22.11.4585)
